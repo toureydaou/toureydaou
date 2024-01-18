@@ -42,13 +42,17 @@ or Outlook <img alt="Static Badge" src="https://img.shields.io/badge/Outlook-blu
 
 <h1>📈 My stats</h1>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=toureydaou&show=reviews,prs_merged,prs_merged_percentage&theme=dark&include_all_commits=true" />
-</a>
+<div align"center>
+    
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats-one-delta-92.vercel.app/api?username=toureydaou&show=reviews,prs_merged,prs_merged_percentage&theme=dark&include_all_commits=true" />
+  </a>
+  
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats-one-delta-92.vercel.app/api/top-langs/?username=toureydaou&layout=compact" />
+  </a>
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toureydaou&layout=compact" />
-</a>
+</div>
 
 
 
