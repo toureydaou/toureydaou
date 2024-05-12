@@ -45,7 +45,7 @@ or Outlook <img alt="Static Badge" src="https://img.shields.io/badge/Outlook-blu
 <div align"center>
     
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats-one-delta-92.vercel.app/api?username=toureydaou&show=reviews,prs_merged,prs_merged_percentage&theme=dark&include_all_commits=true" />
+    <img align="center" src="https://github-readme-stats-one-delta-92.vercel.app/api?username=toureydaou&theme=dark&include_all_commits=true" />
   </a>
   
   <a href="https://github.com/anuraghazra/convoychat">
