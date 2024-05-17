@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="300" height=250/>
 </div>
 
-<h1 align="center">Hi there 👋🏿, my name is Touré-Ydaou TEOURI. <img alt="GitHub followers" src="https://img.shields.io/github/followers/toureydaou?style=flat"></h1>
+<h1 align="center">Hi there 👋🏿, my name is Touré-Ydaou TEOURI <img alt="GitHub followers" src="https://img.shields.io/github/followers/toureydaou?style=flat"></h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
